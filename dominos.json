@@ -1,0 +1,17 @@
+[
+    {"name":"Margherita","price":199},
+    {"name":"Cheese n corn","price":305},
+    {"name": "Cheese n Tomato","price": 305},
+    {"name": "Achari Do Pyaza","price": 305},
+    {"name": "Double Cheese Margherita","price": 335},
+    {"name": "Fresh Veggie","price": 335},
+    {"name": "Farmhouse","price": 395},
+    {"name": "Peppy Paneer","price": 395},
+    {"name": "Mexican Green Wave","price": 395},
+    {"name": "Veggie Paradise","price": 395},
+    {"name": "Paneer Makhani","price": 395},
+    {"name": "Deluxe Veggie","price": 450},
+    {"name": "Veg Extravaganza","price": 450},
+    {"name": "Indi Tandoori Paneer","price": 450},
+    {"name": "5 Pepper","price": 450}
+]
